@@ -8,6 +8,7 @@ Starting from Episode 11 (POS Tagging) onward.
 | Episode | Topic                          | Folder            |
 |---------|--------------------------------|--------------------|
 | 11      | Part of Speech (POS) Tagging   | `11-pos-tagging`   |
+| 12      | Named Entity Recognition (NER) | `12-ner`           |
 
 ## Tools used
 - Python
