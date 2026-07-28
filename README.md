@@ -1,20 +1,29 @@
-# NLP Tutorial Practice
+# NLP Tutorial Practice 🧠
 
-Practicing along with codebasics' NLP Tutorial series on YouTube.
-Starting from Episode 11 (POS Tagging) onward.
+Practicing along with [codebasics' NLP Tutorial series](https://www.youtube.com/@codebasics) on YouTube.  
+Starting from Episode 11 (POS Tagging) onward — code is written and run by me while following the tutorial, with small tweaks and my own examples.
 
-## Progress
+## 📌 Progress
 
-| Episode | Topic                          | Folder            |
-|---------|--------------------------------|--------------------|
-| 11      | Part of Speech (POS) Tagging   | `11-pos-tagging`   |
-| 12      | Named Entity Recognition (NER) | `12-ner`           |
+| Episode | Topic                          | Folder              |
+|---------|--------------------------------|----------------------|
+| 11      | Part of Speech (POS) Tagging   | [`11-pos-tagging`](./11-pos-tagging)   |
+| 12      | Named Entity Recognition (NER) | [`12-ner`](./12-ner)             |
+| 14      | Stop Words                     | [`14-stop-words`](./14-stop-words)     |
 
-## Tools used
+*(More episodes will be added as I progress through the series.)*
+
+## 🛠️ Tools & Libraries
 - Python
-- spaCy
+- [spaCy](https://spacy.io/)
 - Jupyter Notebook
 
-## Notes
-This repo is for personal learning and practice. Code is based on the tutorial 
-with my own experiments and modifications.
+## ⚙️ Setup
+Each notebook uses a Python virtual environment with spaCy installed:
+```bash
+pip install spacy
+python -m spacy download en_core_web_sm
+```
+
+## 📝 Notes
+This repo is for personal learning and practice. Code follows the tutorial's structure but includes my own experiments, test sentences, and modifications.
