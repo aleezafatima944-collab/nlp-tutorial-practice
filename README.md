@@ -27,3 +27,4 @@ python -m spacy download en_core_web_sm
 
 ## 📝 Notes
 This repo is for personal learning and practice. Code follows the tutorial's structure but includes my own experiments, test sentences, and modifications.
+_Last updated: July 2026_
