@@ -30,5 +30,5 @@ This repo is for personal learning and practice. Code follows the tutorial's str
 _Last updated: July 2026_
 
 
-##Recently working on a NLP project
+## Recently working on a NLP project
  chatbot project for food shop
